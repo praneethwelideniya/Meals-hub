@@ -1,0 +1,44 @@
+{
+  "categories":[
+  {"name":"Beef","pic":"https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg/preview"},
+  {"name":"Breakfast","pic":"https://www.themealdb.com/images/media/meals/1550441882.jpg/preview"},
+  {"name":"Chicken","pic":"https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg/preview"}
+  ,{"name":"Dessert","pic":"https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg/preview"},
+  {"name":"Goat","pic":"https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg"}
+  ,{"name":"Lamb","pic":"https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg/preview"},
+  {"name":"Miscellaneous","pic":"https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg/preview"},
+  {"name":"Pasta","pic":"https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg/preview"},
+  {"name":"Pork","pic":"https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg/preview"},
+  {"name":"Seafood","pic":"https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg/preview"},
+  {"name":"Side","pic":"https://www.themealdb.com/images/media/meals/qywups1511796761.jpg/preview"},
+  {"name":"Starter","pic":"https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg/preview"},
+  {"name":"Vegan","pic":"https://www.themealdb.com/images/media/meals/1520081754.jpg/preview"},
+  {"name":"Vegetarian","pic":"https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg/preview"}
+],
+"areas":[
+  {"name":"American","pic":"https://www.countryflags.io/um/flat/64.png"},
+  {"name":"British","pic":"https://www.countryflags.io/io/flat/64.png"},
+  {"name":"Canadian","pic":"https://www.countryflags.io/ca/flat/64.png"},
+  {"name":"Chinese","pic":"https://www.countryflags.io/cn/flat/64.png"},
+  {"name":"Dutch","pic":"https://www.countryflags.io/nl/flat/64.png"},
+  {"name":"Egyptian","pic":"https://www.countryflags.io/eg/flat/64.png"},
+  {"name":"French","pic":"https://www.countryflags.io/fr/flat/64.png"},
+  {"name":"Greek","pic":"https://www.countryflags.io/gr/flat/64.png"},
+  {"name":"Indian","pic":"https://www.countryflags.io/in/flat/64.png"},
+  {"name":"Irish","pic":"https://www.countryflags.io/ie/flat/64.png"},
+  {"name":"Italian","pic":"https://www.countryflags.io/it/flat/64.png"},
+  {"name":"Jamaican","pic":"https://www.countryflags.io/jm/flat/64.png"},
+  {"name":"Japanese","pic":"https://www.countryflags.io/jp/flat/64.png"},
+  {"name":"Kenyan","pic":"https://www.countryflags.io/ke/flat/64.png"},
+  {"name":"Malaysian","pic":"https://www.countryflags.io/my/flat/64.png"},
+  {"name":"Mexican","pic":"https://www.countryflags.io/mx/flat/64.png"},
+  {"name":"Moroccan","pic":"https://www.countryflags.io/ma/flat/64.png"},
+  {"name":"Russian","pic":"https://www.countryflags.io/ru/flat/64.png"},
+  {"name":"Spanish","pic":"https://www.countryflags.io/es/flat/64.png"},
+  {"name":"Thai","pic":"https://www.countryflags.io/tw/flat/64.png"},
+  {"name":"Tunisian","pic":"https://www.countryflags.io/tn/flat/64.png"},
+  {"name":"Turkish","pic":"https://www.countryflags.io/tr/flat/64.png"},
+  {"name":"Unknown","pic":"https://www.countryflags.io/um/flat/64.png"},
+  {"name":"Vietnamese","pic":"https://www.countryflags.io/vn/flat/64.png"}
+]
+}
